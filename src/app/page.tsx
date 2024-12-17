@@ -36,7 +36,7 @@ export default function Home() {
         {/* Newspaper Header */}
         <header className="bg-white border-b-4 border-gray-900 p-4 transform -rotate-1">
           <h1 className="font-bangers text-6xl md:text-8xl text-center">The Daily Shitcoin</h1>
-          <p className="font-marker text-center text-xl mt-2">All the news that&#39;s fit to HODL - Est. 2023</p>
+          <p className="font-marker text-center text-xl mt-2">All the news that&#39;s fit to HODL - Est. 2024</p>
         </header>
 
         {/* Announcement Section styled as a newspaper ad */}
@@ -170,15 +170,15 @@ export default function Home() {
         {/* Footer */}
         <footer className="bg-white p-6 text-center border-t-4 border-gray-900 transform -rotate-1">
           <div className="flex justify-center space-x-6 mb-4">
-            <a href="#" className="text-gray-900 hover:text-gray-600 transition-colors duration-200">
+            <a href="https://x.com/satoshit_coin" className="text-gray-900 hover:text-gray-600 transition-colors duration-200">
               <Twitter className="w-6 h-6" />
             </a>
-            <a href="#" className="text-gray-900 hover:text-gray-600 transition-colors duration-200">
+            <a href="https://t.me/satoshit_coin" className="text-gray-900 hover:text-gray-600 transition-colors duration-200">
               <Send className="w-6 h-6" />
             </a>
           </div>
-          <p className="text-sm font-indie">© 2023 The Daily Shitcoin. No rights reserved. DYOR (or don&#39;t, we don&#39;t care).</p>
-          <p className="text-sm font-indie">satoshit coin is a meme token with no intrinsic value, no promise of financial gain. Not financial advice.</p>
+          <p className="text-sm font-indie">© 2024 satoshitcoin.com | No rights reserved. DYOR (or don&#39;t, we don&#39;t care).</p>
+          <p className="text-sm font-indie">satoshitcoin is a meme token with no intrinsic value, no promise of financial gain. Not financial advice.</p>
         
         </footer>
       </div>
