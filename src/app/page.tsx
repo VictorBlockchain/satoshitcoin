@@ -65,7 +65,7 @@ export default function Home() {
           borderColor="border-purple-500"
         >
           <Image 
-            src="/satoshitcoin_2.jpeg" 
+            src="/satoshitcoin.jpeg" 
             alt="Satoshitcoin Logo" 
             fill
             style={{ objectFit: "cover" }}
@@ -135,7 +135,7 @@ export default function Home() {
 
         {/* YouTube Video Section */}
         <CollagePanel className="mx-8 mb-8 bg-lime-200" rotate={-1} borderStyle="border-dashed" borderColor="border-green-500">
-          <h2 className="font-bangers text-4xl mb-4 text-center">shit baller coin Anthem</h2>
+          <h2 className="font-bangers text-4xl mb-4 text-center">shit coin baller Anthem</h2>
           <div className="aspect-w-16 aspect-h-9">
             <iframe
               src="https://www.youtube.com/embed/otLlgaTF9Ag?si=EeQpYvRwhH58BA5u"
