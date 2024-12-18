@@ -164,9 +164,9 @@ export default function Home() {
         <div className="bg-yellow-300 border-t-4 border-b-4 border-gray-900 p-4 text-center transform rotate-1">
           <h2 className="font-bangers text-4xl mb-2">Ready to become a shitcoin baller?</h2>
           <p className="text-xl mb-4 font-shadows">Join the Satoshitcoin community today!</p>
-          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow-[4px_4px_0_0_rgba(0,0,0,1)] transform transition-transform hover:scale-105">
+          <a href="https://pump.fun/coin/Hh9nz8S5d7ih6fwBCp6Bj7ep18s8LYNr62HGm2ngpump" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow-[4px_4px_0_0_rgba(0,0,0,1)] transform transition-transform hover:scale-105">
             Ape in now!
-          </button>
+          </a>
         </div>
 
         {/* Footer */}
