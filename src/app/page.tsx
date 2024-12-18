@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { Twitter, Send, Megaphone } from 'lucide-react'
+import { Twitter, Send } from 'lucide-react'
 
 const CollagePanel = ({ children, className = "", rotate = 0, borderStyle = "border-solid", borderColor = "border-gray-900" }: { 
   children: React.ReactNode, 
