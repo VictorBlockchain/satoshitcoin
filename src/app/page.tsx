@@ -87,10 +87,11 @@ export default function Home() {
           <CollagePanel className="bg-blue-200 " rotate={-1} borderStyle="border-double" borderColor="border-red-500">
             <h3 className="font-bangers text-2xl mb-2 text-center">How to Buy Satoshitcoin</h3>
             <ol className="list-decimal list-inside font-indie text-lg text-center" style={{fontSize:'21px'}}>
-              <li>If you are a girl, grab your tits</li>
-              <li>If you are a guy, grab your balls</li>
-              <li>Click &#39;Buy&#39; repeatedly</li>
-              <li>Hold & become a shitcoin baller!</li>
+              <li style={{fontSize:'21px'}} className="mb-3">If you are a girl, grab your tits</li>
+              <li style={{fontSize:'21px'}} className="mb-3">If you are a guy, grab your balls</li>
+              <li style={{fontSize:'21px'}} className="mb-3">open your phantom wallet</li>
+              <li style={{fontSize:'21px'}}className="mb-3">swap solana for SATOSHiT</li>
+              <li style={{fontSize:'21px'}}>Hold & become a shitcoin baller!</li>
             </ol>
           </CollagePanel>
 
