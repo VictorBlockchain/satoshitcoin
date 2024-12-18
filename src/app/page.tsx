@@ -47,10 +47,11 @@ export default function Home() {
           <div className="absolute -bottom-4 -right-4 w-20 h-8 bg-gray-300 transform -rotate-45 z-10"></div>
           <div className="bg-yellow-100 border-8 border-dashed border-gray-800 p-6 transform rotate-1 relative z-0">
             <div className="flex items-center justify-center">
-              <Megaphone className="w-24 h-24 mr-4 text-red-500 animate-pulse" />
               <div>
-                <h2 className="font-bangers text-5xl md:text-7xl mb-2 text-red-500">SatoshitCoin</h2>
-                <p className="font-marker text-2xl md:text-3xl text-gray-800">The Genius Shitcoin</p>
+                <h2 className="font-bangers text-5xl md:text-7xl mb-2 text-red-500 text-center">SatoshitCoin</h2>
+                <p className="font-marker text-2xl md:text-3xl text-gray-800 text-center">The Genius Shitcoin</p>
+                <p className="font-indie text-center text-xl mt-3 break-all">contract: Hh9nz8S5d7ih6fwBCp6Bj7ep18s8LYNr62HGm2ngpump</p>
+
               </div>
             </div>
           </div>
